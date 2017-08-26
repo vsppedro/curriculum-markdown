@@ -2,7 +2,7 @@
 
 ## Education
 
-**2014 - present**
+**2014 - present** <br>
 **Technology and Systems for Internet** - IFPB (Instituto Federal da Paraíba)  
 
 **2009 - interrupted** <br>
