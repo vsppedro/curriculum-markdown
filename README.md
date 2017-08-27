@@ -1,4 +1,12 @@
-# curriculum-vitae
+# Curriculum Vitae
+
+## Personal Details
+
+**Name:** Pedro Vinícius Silva de Paiva <br>
+**Email:** pedrovsp109@gmail.com  <br>
+**Date of birth:** 11/10/1990  <br>
+**Nationality:** Brazil  <br>
+**Marital Status:** Single  <br>
 
 ## Education
 
