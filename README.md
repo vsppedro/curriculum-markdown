@@ -29,10 +29,6 @@ Udemy
 **Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
 Udemy
 
-**2017 - paused** <br>
-**Front End Development (400+h)** <br>
-Free Code Camp
-
 **2017 - 2017** <br>
 **Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
 Udemy
@@ -47,10 +43,6 @@ Udemy
 
 **2016 - 2016** <br>
 **Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
-Udemy
-
-**2016 - paused** <br>
-**Coding for Entrepreneurs: Learn Python, Django, and More (45h)** <br>
 Udemy
 
 **2013 - 2013** <br>
