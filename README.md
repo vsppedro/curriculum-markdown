@@ -19,7 +19,7 @@ PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript.
 ## Related Work Experience
 
 **2016 - present** <br>
-**Institutional bond with the IFPB** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a> <br>
+**Institutional bond with the IFPB** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a>. <br>
 Made with Django and PostgreSQL. <br>
 Function: with this engine it's possible to research professors working in the IFPB. Can find using name or skills.
 
