@@ -29,8 +29,8 @@ Udemy
 **Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
 Udemy
 
-**2017 - paused**
-**Front End Development (400+h)**
+**2017 - paused** <br>
+**Front End Development (400+h)** <br>
 Free Code Camp
 
 **2017 - 2017** <br>
