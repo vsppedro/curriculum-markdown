@@ -21,13 +21,29 @@
 
 ## Training and Certificates
 
+**2017 - present** <br>
+**Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
+Udemy, UDEMY, EUA.
+
+**2017 - 2017** <br>
+**Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
+Udemy, UDEMY, EUA.
+
+**2017 - 2017** <br>
+**Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
+Udemy, UDEMY, EUA.
+
+**2016 - 2016** <br>
+**The Complete SQL Bootcamp (8h)** <br>
+Udemy, UDEMY, EUA.
+
 **2016 - 2016** <br>
 **Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
-Udemy, UDEMY, Estados Unidos.
+Udemy, UDEMY, EUA.
 
-**2016 - interrupted** <br>
+**2016 - paused** <br>
 **Coding for Entrepreneurs: Learn Python, Django, and More (45h)** <br>
-Udemy, UDEMY, Estados Unidos.
+Udemy, UDEMY, EUA.
 
 **2013 - 2013** <br>
 **EMPRETEC (60h)** <br>
