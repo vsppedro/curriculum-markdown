@@ -10,7 +10,7 @@
 
 ## Skills
 
-C,C++,C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PHP, Django, Python, MySQL, Oracle,  SQL, Swift, PostgreSQL, Jekyll.
+C,C++,C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PHP, Django, Python, MySQL, Oracle,  SQL, Swift, PostgreSQL, Jekyll, Linux.
 
 ## Related Work Experience
 
@@ -87,3 +87,9 @@ EAD SEBRAE - Brazil.
 **2013 - 2013** <br>
 **Web Designer (160h)** <br>
 SENAC - PB, Brazil.
+
+## Other skills
+
+**Portuguese brazilian: ** native.
+**English: ** medium level.
+
