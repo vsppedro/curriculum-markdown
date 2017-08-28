@@ -28,7 +28,7 @@ Function: with this engine it's possible to research professors working in the I
 **2017 - present** <br>
 **Knight Academy** - Puzzle game for Android made with Unity and C#.
 
-**2017 - paused** <br>
+**2017 - present** <br>
 **Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
 
 ## Education
@@ -36,7 +36,7 @@ Function: with this engine it's possible to research professors working in the I
 **2014 - present** <br>
 **Technology and Systems for Internet** - IFPB (Federal Institute of Paraíba)  
 
-**2009 - interrupted** <br>
+**2009 - 2013 (interrupted)** <br>
 **Mechanical Engineering** - UFPB (Federal University of Paraíba)    
 
 **2006 - 2008** <br>
@@ -94,6 +94,6 @@ SENAC - PB, Brazil.
 
 ## Other skills
 
-**Portuguese brazilian:** native <br>
+**Brazilian Portuguese:** native <br>
 **English:** medium level (spoken and written)<br>
 
