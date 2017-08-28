@@ -33,10 +33,6 @@ Udemy
 **Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
 Udemy
 
-**2017 - 2017** <br>
-**Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
-Udemy
-
 **2016 - 2016** <br>
 **The Complete SQL Bootcamp (8h)** <br>
 Udemy
