@@ -10,14 +10,18 @@
 
 ## Skills
 
-C,C++,C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PHP, Django, Python, MySQL, Oracle,  SQL, Swift, PostgreSQL, Jekyll, Linux.
+**Medium level** <br>
+C, C++, C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PostgreSQL, Django.
+
+**Beginner level** <br>
+PHP, Python, MySQL, Oracle,  SQL, Swift, Jekyll, Linux.
 
 ## Related Work Experience
 
 **2016 - present** <br>
-**Institutional bond with the IFPB** - I'm part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a> <br>
+**Institutional bond with the IFPB** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a> <br>
 Made with Django and PostgreSQL. <br>
-Function: Researching professors working in the IFPB, can find using name or skills.
+Function: with this engine it's possible to research professors working in the IFPB. Can find using name or skills.
 
 ## Personal Projects
 
@@ -91,5 +95,5 @@ SENAC - PB, Brazil.
 ## Other skills
 
 **Portuguese brazilian:** native <br>
-**English:** medium level <br>
+**English:** medium level (spoken and written)<br>
 
