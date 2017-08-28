@@ -22,7 +22,7 @@ Function: Researching professors working in the IFPB, can find using name or ski
 ## Personal Projects
 
 **2017 - present** <br>
-**Knight Academy** - <a href="">Puzzle game</a> for Android made with Unity and C#.
+**Knight Academy** - Puzzle game for Android made with Unity and C#.
 
 **2017 - paused** <br>
 **Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
@@ -30,10 +30,10 @@ Function: Researching professors working in the IFPB, can find using name or ski
 ## Education
 
 **2014 - present** <br>
-**Technology and Systems for Internet** - IFPB (Instituto Federal da Paraíba)  
+**Technology and Systems for Internet** - IFPB (Federal Institute of Paraíba)  
 
 **2009 - interrupted** <br>
-**Mechanical Engineering** - UFPB (Universidade Federal da Paraíba)    
+**Mechanical Engineering** - UFPB (Federal University of Paraiba)    
 
 **2006 - 2008** <br>
 **High School** - Marista Pio X 
