@@ -30,6 +30,10 @@ Udemy
 Udemy
 
 **2017 - 2017** <br>
+**The Board Game Developer - Become A Game Design Ninja (6h)** <br>
+Udemy
+
+**2017 - 2017** <br>
 **Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
 Udemy
 
