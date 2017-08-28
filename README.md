@@ -90,6 +90,6 @@ SENAC - PB, Brazil.
 
 ## Other skills
 
-**Portuguese brazilian: ** native.
-**English: ** medium level.
+**Portuguese brazilian:** native <br>
+**English:** medium level <br>
 
