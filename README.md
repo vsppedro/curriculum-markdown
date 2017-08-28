@@ -10,7 +10,22 @@
 
 ## Skills
 
-C,C++,C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PHP, MySQL, Oracle, Django, Python, SQL, SWIFT, PostgreSQL.
+C,C++,C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PHP, Django, Python, MySQL, Oracle,  SQL, Swift, PostgreSQL, Jekyll.
+
+## Related Work Experience
+
+**2016 - present** <br>
+**Institutional bond with the IFPB** - I'm part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a> <br>
+Made with Django and PostgreSQL.
+Function: Researching professors working in the IFPB, can find using name or skills.
+
+## Personal Projects
+
+**2017 - present** <br>
+**Knight Academy** - <a href="">Puzzle game</a> for Android made with Unity and C#.
+
+**2017 - paused** <br>
+**Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
 
 ## Education
 
@@ -50,7 +65,7 @@ Udemy, California, EUA.
 Udemy, California, EUA.
 
 **2013 - 2013** <br>
-**EMPRETEC (60h)** <br>
+**Empretec (60h)** <br>
 Serviço de Apoio às Micro e Pequenas Empresas de Natal, SEBRAE/RN, Brasil. 
 
 **2013 - 2013** <br>
@@ -72,7 +87,3 @@ EAD Serviço Brasileiro de apoio às Micro e Pequenas Empresas, EAD SEBRAE, Bras
 **2013 - 2013** <br>
 **Web Designer (160h)** <br>
 Serviço Nacional de Aprendizagem Comercial - PB, SENAC, Brazil.
-
-Reaproveitar dados do currículo do cnpq: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8280566H7
-
-OBS: em construção
