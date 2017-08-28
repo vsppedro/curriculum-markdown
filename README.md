@@ -8,6 +8,10 @@
 **Nationality:** Brazil  <br>
 **Marital Status:** Single  <br>
 
+## Skills
+
+C,C++,C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PHP, MySQL, Oracle, Django, Python, SQL, SWIFT, PostgreSQL.
+
 ## Education
 
 **2014 - present** <br>
@@ -23,27 +27,27 @@
 
 **2017 - present** <br>
 **GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
-Udemy
+Udemy, California, EUA.
 
 **2017 - present** <br>
 **Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
-Udemy
+Udemy, California, EUA.
 
 **2017 - 2017** <br>
 **The Board Game Developer - Become A Game Design Ninja (6h)** <br>
-Udemy
+Udemy, California, EUA.
 
 **2017 - 2017** <br>
 **Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
-Udemy
+Udemy, California, EUA.
 
 **2016 - 2016** <br>
 **The Complete SQL Bootcamp (8h)** <br>
-Udemy
+Udemy, California, EUA.
 
 **2016 - 2016** <br>
 **Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
-Udemy
+Udemy, California, EUA.
 
 **2013 - 2013** <br>
 **EMPRETEC (60h)** <br>
