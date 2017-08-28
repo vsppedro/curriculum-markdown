@@ -11,10 +11,10 @@
 ## Skills
 
 **Medium level** <br>
-C, C++, C#, Unity,Java, JPA, JSF, HTML, JavaScript, CSS, Git, PostgreSQL, Django.
+C, C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
 
 **Beginner level** <br>
-PHP, Python, MySQL, Oracle,  SQL, Swift, Jekyll, Linux.
+PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript.
 
 ## Related Work Experience
 
@@ -37,7 +37,7 @@ Function: with this engine it's possible to research professors working in the I
 **Technology and Systems for Internet** - IFPB (Federal Institute of Paraíba)  
 
 **2009 - interrupted** <br>
-**Mechanical Engineering** - UFPB (Federal University of Paraiba)    
+**Mechanical Engineering** - UFPB (Federal University of Paraíba)    
 
 **2006 - 2008** <br>
 **High School** - Marista Pio X 
