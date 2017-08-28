@@ -22,11 +22,11 @@
 ## Training and Certificates
 
 **2016 - 2016** <br>
-Git Complete: The definitive, step-by-step guide to Git. (Carga horária: 6h). 
+**Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
 Udemy, UDEMY, Estados Unidos.
 
 **2016 - interrupted** <br>
-Coding for Entrepreneurs: Learn Python, Django, and More (45h) <br>
+**Coding for Entrepreneurs: Learn Python, Django, and More (45h)** <br>
 Udemy, UDEMY, Estados Unidos.
 
 **2013 - 2013** <br>
@@ -42,7 +42,7 @@ EAD Serviço Brasileiro de apoio às Micro e Pequenas Empresas, EAD SEBRAE, Bras
 EAD Serviço Brasileiro de apoio às Micro e Pequenas Empresas, EAD SEBRAE, Brasil.
 
 **2013 - 2013** <br>
-**MEI Micropreneur Individual (5h)** <b>
+**MEI Micropreneur Individual (5h)** <br>
 EAD Serviço Brasileiro de apoio às Micro e Pequenas Empresas, EAD SEBRAE, Brasil.
 
 **2013 - 2013** <br>
