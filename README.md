@@ -18,15 +18,16 @@ PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript.
 
 ## Related Work Experience
 
+**2017 - present** <br>
+**Knight Academy** - Puzzle game for Android made with Unity and C#. <br>
+**Roles:** Game Designer and Developer.
+
 **2016 - present** <br>
 **Institutional bond with the IFPB** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a>. <br>
 Made with Django and PostgreSQL. <br>
 Function: with this engine it's possible to research professors working in the IFPB. Can find using name or skills.
 
 ## Personal Projects
-
-**2017 - present** <br>
-**Knight Academy** - Puzzle game for Android made with Unity and C#.
 
 **2017 - present** <br>
 **Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
