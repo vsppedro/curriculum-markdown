@@ -26,7 +26,7 @@ Made with Django and PostgreSQL. <br>
 ## Personal Projects
 
 **2017 - present** <br>
-**Knight Academy** - Puzzle game for Android made with Unity and C#. <br>
+**Knight Academy** - <a href="https://play.google.com/store/apps/details?id=com.tempolivregames.KnightAcademy&hl=pt_BR">Puzzle game</a> for Android made with Unity and C#. <br>
 **Roles:** Game Designer and Developer. <br>
 **Team:** two persons, the other is the game artist.
 
