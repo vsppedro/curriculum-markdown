@@ -54,7 +54,7 @@ Udemy - EUA.
 **C++ Course - Intermediate (30h)** <br>
 Udemy - EUA.
 
-**2017 - present** <br>
+**2017 - 2017** <br>
 **GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
 Udemy - EUA.
 
