@@ -11,10 +11,10 @@
 ## Skills
 
 **Medium level** <br>
-C, C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
+C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
 
 **Beginner level** <br>
-PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS.
+C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS.
 
 ## Related Work Experience
 
@@ -47,11 +47,15 @@ Made with Django and PostgreSQL. <br>
 ## Training and Certificates
 
 **2017 - present** <br>
-**GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
+**Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
 Udemy - EUA.
 
 **2017 - present** <br>
-**Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
+**C++ Course - Intermediate (30h)** <br>
+Udemy - EUA.
+
+**2017 - present** <br>
+**GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
 Udemy - EUA.
 
 **2017 - 2017** <br>
