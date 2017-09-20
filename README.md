@@ -30,7 +30,7 @@ Made with Django and PostgreSQL. <br>
 **Roles:** Game Designer and Developer. <br>
 **Team:** two persons, the other is the game artist.
 
-**2017 - present** <br>
+**2017 - 2017** <br>
 **Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
 
 ## Education
