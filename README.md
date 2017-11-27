@@ -51,7 +51,7 @@ Made with Django and PostgreSQL. <br>
 Udemy - EUA.
 
 **2017 - present** <br>
-**C++ Course - Intermediate (30h)** <br>
+**Introduction to Laravel 5.3 (4h)** <br>
 Udemy - EUA.
 
 **2017 - 2017** <br>
