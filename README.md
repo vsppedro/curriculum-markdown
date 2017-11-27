@@ -14,7 +14,7 @@
 C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
 
 **Beginner level** <br>
-C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby.
+C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel.
 
 ## Related Work Experience
 
