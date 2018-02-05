@@ -50,7 +50,7 @@ Made with Django and PostgreSQL. <br>
 **Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
 Udemy - EUA.
 
-**2017 - present** <br>
+**2017 - 2017** <br>
 **Introduction to Laravel 5.3 (4h)** <br>
 Udemy - EUA.
 
