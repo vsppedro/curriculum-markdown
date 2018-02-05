@@ -47,6 +47,10 @@ Made with Django and PostgreSQL. <br>
 ## Training and Certificates
 
 **2017 - present** <br>
+**Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
+Udemy - EUA.
+
+**2017 - present** <br>
 **Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
 Udemy - EUA.
 
@@ -102,4 +106,10 @@ SENAC - PB, Brazil.
 
 **Brazilian Portuguese:** native <br>
 **English:** medium level (spoken and written)<br>
+
+## Training with programming challenges
+
+**Codewars bagdes:** <br>
+![alt text](https://www.codewars.com/users/VSPPedro/badges/large)
+
 
