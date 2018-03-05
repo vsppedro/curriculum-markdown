@@ -19,9 +19,9 @@ C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, 
 ## Related Work Experience
 
 **2016 - present** <br>
-**Institutional bond with the IFPB** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a>. <br>
+**Institutional bond with the <a href="https://www.ifpb.edu.br/">IFPB</a>** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a>. <br>
 Made with Django and PostgreSQL. <br>
-**Function:** with this engine it's possible to research professors working in the IFPB. Can find using name or skills.
+**Function:** with this engine it's possible to research professors working in the IFPB - Instituto Federal da Paraíba. Can find using name or skills.
 
 ## Personal Projects
 
@@ -32,6 +32,7 @@ Made with Django and PostgreSQL. <br>
 
 **2017 - 2017** <br>
 **Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
+
 
 ## Education
 
@@ -105,7 +106,7 @@ SENAC - PB, Brazil.
 ## Other skills
 
 **Brazilian Portuguese:** native <br>
-**English:** medium level (spoken and written)<br>
+**English:** medium level<br>
 
 ## Training with programming challenges
 
