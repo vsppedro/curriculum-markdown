@@ -36,7 +36,7 @@ Made with Django and PostgreSQL. <br>
 
 ## Education
 
-**2014 - present** <br>
+**2014 - 2018** <br>
 **Technology and Systems for Internet** - IFPB (Federal Institute of Paraíba)  
 
 **2009 - 2013 (interrupted)** <br>
