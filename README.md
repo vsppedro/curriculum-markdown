@@ -110,7 +110,7 @@ SENAC - PB, Brazil.
 ## Other skills
 
 **Brazilian Portuguese:** native <br>
-**English:** medium level<br>
+**English:** advanced <br>
 
 ## Training with programming challenges
 
