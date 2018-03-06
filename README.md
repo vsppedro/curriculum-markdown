@@ -49,39 +49,39 @@ Made with Django and PostgreSQL. <br>
 
 **2018 - 2018**<br>
 **Scrum Fundamentals Certified** <br>
-SCRUMstudy - Accreditation Body for Scrum and Agile - EUA, AZ.
+SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
 
 **2017 - present** <br>
 **Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
-Udemy - EUA.
+Udemy - USA.
 
 **2017 - 2017 (interrupted)** <br>
 **Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
-Udemy - EUA.
+Udemy - USA.
 
 **2017 - 2017** <br>
 **Introduction to Laravel 5.3 (4h)** <br>
-Udemy - EUA.
+Udemy - USA.
 
 **2017 - 2017** <br>
 **GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
-Udemy - EUA.
+Udemy - USA.
 
 **2017 - 2017** <br>
 **The Board Game Developer - Become A Game Design Ninja (6h)** <br>
-Udemy - EUA.
+Udemy - USA.
 
 **2017 - 2017** <br>
 **Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
-Udemy - EUA.
+Udemy - USA.
 
 **2016 - 2016** <br>
 **The Complete SQL Bootcamp (8h)** <br>
-Udemy - EUA.
+Udemy - USA.
 
 **2016 - 2016** <br>
 **Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
-Udemy - EUA.
+Udemy - USA.
 
 **2013 - 2013** <br>
 **Empretec (60h)** <br>
@@ -116,5 +116,3 @@ SENAC - PB, Brazil.
 
 **Codewars bagdes:** <br>
 ![alt text](https://www.codewars.com/users/VSPPedro/badges/large)
-
-
