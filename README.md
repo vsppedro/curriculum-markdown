@@ -47,6 +47,10 @@ Made with Django and PostgreSQL. <br>
 
 ## Training and Certificates
 
+**2018 - 2018**<br>
+**Scrum Fundamentals Certified** <br>
+SCRUMstudy - Accreditation Body for Scrum and Agile - EUA, AZ.
+
 **2017 - present** <br>
 **Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
 Udemy - EUA.
