@@ -14,7 +14,7 @@
 C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
 
 **Beginner level** <br>
-C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel, NodeJS.
+C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel, NodeJS, Elasticsearch.
 
 ## Related Work Experience
 
@@ -33,7 +33,6 @@ Made with Django and PostgreSQL. <br>
 **2017 - 2017** <br>
 **Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
 
-
 ## Education
 
 **2014 - 2018** <br>
@@ -45,11 +44,37 @@ Made with Django and PostgreSQL. <br>
 **2006 - 2008** <br>
 **High School** - Marista Pio X 
 
-## Training and Certificates
+## Certificates
 
-**2018 - 2018**<br>
+**2018**<br>
 **Scrum Fundamentals Certified** <br>
 SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
+
+**2013** <br>
+**Empretec (60h)** <br>
+SEBRAE - RN, Brazil. 
+
+**2013** <br>
+**Motivating and Managing People (15h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**Starting a Small and Big Business (30h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**MEI Micropreneur Individual (5h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**Learn to endeavor (16h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**Web Designer (160h)** <br>
+SENAC - PB, Brazil.
+
+## Training
 
 **2017 - present** <br>
 **Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
@@ -82,30 +107,6 @@ Udemy - USA.
 **2016 - 2016** <br>
 **Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
 Udemy - USA.
-
-**2013 - 2013** <br>
-**Empretec (60h)** <br>
-SEBRAE - RN, Brazil. 
-
-**2013 - 2013** <br>
-**Motivating and Managing People (15h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013 - 2013** <br>
-**Starting a Small and Big Business (30h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013 - 2013** <br>
-**MEI Micropreneur Individual (5h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013 - 2013** <br>
-**Learn to endeavor (16h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013 - 2013** <br>
-**Web Designer (160h)** <br>
-SENAC - PB, Brazil.
 
 ## Other skills
 
