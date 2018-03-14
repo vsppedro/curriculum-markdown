@@ -80,6 +80,10 @@ SENAC - PB, Brazil.
 **Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
 Udemy - USA.
 
+**2017 - 2017** <br>
+**Complete Guide to Elasticsearch (11h)** <br>
+Udemy - USA.
+
 **2017 - 2017 (interrupted)** <br>
 **Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
 Udemy - USA.
