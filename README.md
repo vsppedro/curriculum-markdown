@@ -76,6 +76,10 @@ SENAC - PB, Brazil.
 
 ## Training
 
+**2018 - 2018** <br>
+**Scrum - Patterns of Agile Adoption (2h)** <br>
+Udemy - USA.
+
 **2017 - present** <br>
 **Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
 Udemy - USA.
