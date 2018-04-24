@@ -77,6 +77,10 @@ SENAC - PB, Brazil.
 ## Training
 
 **2018 - 2018** <br>
+**Algorithmic Problems in Java (7h)** <br>
+Udemy - USA.
+
+**2018 - 2018** <br>
 **Scrum - Patterns of Agile Adoption (2h)** <br>
 Udemy - USA.
 
