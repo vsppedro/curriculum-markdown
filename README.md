@@ -84,7 +84,7 @@ Udemy - USA.
 **Scrum - Patterns of Agile Adoption (2h)** <br>
 Udemy - USA.
 
-**2017 - present** <br>
+**2017 - 2017(interrupted)** <br>
 **Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
 Udemy - USA.
 
